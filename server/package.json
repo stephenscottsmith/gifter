@@ -1,0 +1,29 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "description": "API for Gifter",
+  "main": "api-server.js",
+  "author": "Steve Smith",
+  "license": "ISC",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "aws-lib": "^0.3.0",
+    "bcrypt-nodejs": "latest",
+    "chai": "*",
+    "config": "latest",
+    "good": "latest",
+    "good-console": "latest",
+    "hapi": "latest",
+    "joi": "latest",
+    "joi-phone": "latest",
+    "mocha": "*",
+    "moment": "^2.9.0",
+    "node-neo4j": "latest",
+    "phone": "latest",
+    "request": "*",
+    "sha1": "^1.1.0",
+    "uuid": "~2.0.1"
+  }
+}

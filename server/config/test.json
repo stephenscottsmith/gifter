@@ -1,0 +1,12 @@
+{
+    "Api-Server": {
+        "host": "localhost",
+        "port": 8080,
+        "logToConsole": true
+    },
+    "Database-Server": {
+        "host": "localhost",
+        "port": 7474,
+        "auth_token": "2cc21d9a8d0faf1450200ee499d8efb4"
+    }
+}
